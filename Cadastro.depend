@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667607779 source:c:\meu site\cadastro\cadastro\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdlib.h>
+
